@@ -20,3 +20,8 @@ Typing Signature Api is a hobby project. The project attempts to identify users 
  flask db migrate
 ```
 
+### Serve
+```
+  python main.py
+```
+
